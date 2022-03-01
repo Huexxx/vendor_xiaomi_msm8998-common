@@ -188,3 +188,10 @@ android_app_import {
 	privileged: true,
 	system_ext_specific: true,
 }
+
+dex_import {
+	name: "qcrilhook",
+	owner: "xiaomi",
+	jars: ["proprietary/system_ext/framework/qcrilhook.jar"],
+	system_ext_specific: true,
+}
