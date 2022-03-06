@@ -758,7 +758,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     TimeService \
     com.qti.dpmframework \
-    datastatusnotification \
     dpmapi \
     dpmserviceapp \
     embms \
