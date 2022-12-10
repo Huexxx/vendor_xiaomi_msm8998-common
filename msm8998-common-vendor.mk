@@ -720,6 +720,8 @@ PRODUCT_PACKAGES += \
     libqmi_common_so \
     libqsocket \
     libsdm-disp-vndapis \
+    libts_detected_face_hal \
+    libts_face_beautify_hal \
     CneApp \
     IWlanService \
     TimeService \
