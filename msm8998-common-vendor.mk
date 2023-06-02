@@ -689,6 +689,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libgpustats \
+    libpenguin \
     libqmi_cci \
     libqmi_common_so \
     libqsocket \
