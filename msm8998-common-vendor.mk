@@ -648,3 +648,19 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.alarm-V1.0-java \
     manifest_android.hardware.drm-service.widevine \
     vendor.qti.gnss@4.0-service
+
+PRODUCT_PACKAGES += \
+    eglSubDriverAndroid_symlink32 \
+    eglSubDriverAndroid_symlink64 \
+    libEGL_adreno_symlink32 \
+    libEGL_adreno_symlink64 \
+    libGLESv1_CM_adreno_symlink32 \
+    libGLESv1_CM_adreno_symlink64 \
+    libGLESv2_adreno_symlink32 \
+    libGLESv2_adreno_symlink64 \
+    libimscamera_jni_symlink64 \
+    libimsmedia_jni_symlink64 \
+    libq3dtools_adreno_symlink32 \
+    libq3dtools_adreno_symlink64 \
+    libq3dtools_esx_symlink32 \
+    libq3dtools_esx_symlink64
